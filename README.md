@@ -1,7 +1,3 @@
-I see, thank you for clarifying. Let's adjust the README.md accordingly:
-
-**README.md**
-
 # Shukhi Nibash - House Rental Website
 
 Welcome to the Shukhi Nibash repository! Shukhi Nibash is a house rental website developed to provide an online platform for renting houses in Bangladesh. With Shukhi Nibash, users can easily search for available houses, make bookings, and connect with house owners, all through a hassle-free online experience.
