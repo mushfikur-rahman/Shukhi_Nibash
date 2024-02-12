@@ -61,11 +61,6 @@ git clone https://github.com/mushfikur-rahman/Shukhi_Nibash.git
 
 - Md Mushfikur Rahman (Developer)
 
-
-## Contributors
-
-- Md Mushfikur Rahman (Developer)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
