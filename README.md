@@ -32,7 +32,7 @@ Welcome to the Shukhi Nibash repository! Shukhi Nibash is a house rental website
 
 Certainly! Let's adjust the installation section to reflect the various languages used in your project:
 
-```markdown
+
 ## Installation
 
 1. Clone the repository:
